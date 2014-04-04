@@ -83,15 +83,11 @@ from this URL from the "Releases" page:
 
 > <https://github.com/InternetSociety/isoc-wp/releases>
 
-> **WARNING* - **The "Releases" page does NOT yet include the "1.2" release that is
-explained in this page and the accompanying tutorial.**  That release will be put up 
-there tentatively on November 25, 2013.  These instructions are being updated in
-advance of the release.
 
 > **IMPORTANT** - In order for some of the sample code to work in this documentation, 
 you should click on "Theme download (zip)" in order to download a version of the theme that 
 unzips into a folder called simply "isoc-wp".  If you choose the other buttons marked 
-"Source code" it will unzip into a folder called "isoc-wp-<version>". This will work 
+"Source code" it will unzip into a folder called "isoc-wp-_version_". This will work 
 with WordPress, but some of the examples here will need to be modified. It's easier if
 you just have the folder/directory named "isoc-wp". 
 
@@ -565,14 +561,13 @@ Ideally, one of the various Github-connected plugins would allow you to
 
 However, without those plugins, the update process is a bit more involved:
 
-1. Download the latest ZIP file of the theme from the Downloads page:
+1. Download the latest ZIP file of the theme from the Releases page:
 
-https://github.com/InternetSociety/isoc-wp/downloads
+https://github.com/InternetSociety/isoc-wp/releases
 
-**IMPORTANT**: Download the ZIP file from the bottom of the page under "Download
-Packages" and **NOT** by using the "Download as zip" or "Download as tar.gz" buttons.
-The download package uses the directory name of "isoc-wp" while those two buttons create
-a different directory name.
+**IMPORTANT**: Under the text for the most recent release, use the button marked
+"Theme download (zip)" in order to download a version of the theme that  unzips into
+ a folder called simply "isoc-wp".  
 
 2. In the WordPress Themes panel, _delete_ the current ISOC theme.  (Note: If you are
 using WordPress Multisite, you will need to go into Network Admin -> Themes and then
@@ -627,4 +622,4 @@ through the issue tracker.  Thank you.
 This theme is licensed for usage under the terms of the GPL v2.0. See the file
 "license.txt" for more information.
 
-Copyright 2012-2013 Internet Society
+Copyright 2012-2014 Internet Society
