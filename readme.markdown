@@ -110,28 +110,6 @@ to make any changes, update the home page slides, etc.
 
 ------------------------------------------------------------------------
 
-Automatic Updates
-=================
-
-This theme is designed so that you will receive "automatic update" notifications
-when a new version of the theme is uploaded.  To receive these notifications, you 
-need to install the "Theme Updater" plugin from:
-
-> <http://wordpress.org/extend/plugins/theme-updater/>
-
-You simply activate the plugin and it will periodically check for updates. You
-will then see on your Themes panel that an update is available. More
-information about this Github-based update system can be found 
-[in this blog post](http://www.disruptiveconversations.com/2012/02/how-to-auto-update-wordpress-custom-themes-using-github.html).
-
-**IMPORTANT** - Note that with automatic updates you should not directly edit
-the theme files to customize the site.  Any such direct edits will be removed
-with the next automatic update.  If you wish to customize the theme beyond what
-is available in the web panels, you should consider using a "child theme" as
-noted later in the document.
-
-------------------------------------------------------------------------
-
 Initial Configuration
 =========================
 
@@ -582,12 +560,10 @@ Updating The Theme
 From time to time there will be new versions of this theme released as 
 various issues and enhancements are addressed.
 
-Ideally, the "Theme Updater" plugin mentioned at the beginning of the document
-will allow you to "automatically update" the theme and make this a simple
-process.
+Ideally, one of the various Github-connected plugins would allow you to 
+"automatically update" the theme and make this a simple process.
 
-However, should that plugin be broken (as it currently is with WordPress 3.4) or
-for some reason not work on your site, the update process is a bit more involved:
+However, without those plugins, the update process is a bit more involved:
 
 1. Download the latest ZIP file of the theme from the Downloads page:
 
