@@ -156,11 +156,7 @@ function add_markup_pages($output) {
 }
 add_filter('wp_nav_menu', 'add_markup_pages');
 
-add_theme_support( 'post-thumbnails', array( 'post' ) );
-
-if ( function_exists( 'add_theme_support' ) ) { 
-  add_theme_support( 'post-thumbnails' ); 
-}
+add_theme_support( 'post-thumbnails' );
 
 add_theme_support( 'automatic-feed-links' );
 
