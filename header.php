@@ -75,13 +75,8 @@
 
 	<?php 
 
-	  // Uncomment this to use the "Menu" feature under Apperance instead of Page Orders
 	  wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); 
 
-	  // Uncomment this to use the Page menu instead of the custom Menu under appearance.
-	  //print '<div class="menu">';
-	  //wp_list_pages('title_li=');
-	  //print '</div>';
 
 	?>
 
