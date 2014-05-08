@@ -618,6 +618,20 @@ Balance Interactive.
 
 ------------------------------------------------------------------------
 
+Acknowledgements
+================
+
+This theme includes the _cycle_ plugin created by Mike Alsup in the `js` 
+subdirectory. More information about this plugin can be found at:
+
+* http://jquery.malsup.com/cycle/
+* https://github.com/malsup/cycle
+
+This plugin is included as part of the theme and is responsible for the
+changing of the home page sides.
+
+------------------------------------------------------------------------
+
 Thank you for using this WordPress theme - please do offer suggestions and feedback
 through the issue tracker.  Thank you.
 
