@@ -630,6 +630,17 @@ subdirectory. More information about this plugin can be found at:
 This plugin is included as part of the theme and is responsible for the
 changing of the home page sides.
 
+
+------------------------------------------------------------------------
+
+Administrative Note
+===================
+
+A separate page on Github contains notes and the step-by-step process for 
+packaging up a release of the theme:
+
+https://github.com/InternetSociety/isoc-wp/wiki
+
 ------------------------------------------------------------------------
 
 Thank you for using this WordPress theme - please do offer suggestions and feedback
