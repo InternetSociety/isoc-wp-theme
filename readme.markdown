@@ -23,7 +23,6 @@ If you would like to see the theme in action, the following sites use it:
 
 * http://www.internetsociety.org/deploy360/  (ISOC Deploy360 Programme)
 * http://www.isoc.org.bd/dhaka/    (ISOC Chapter in Dhaka, Bangladesh)
-* http://isocindiachennai.org/     (ISOC Chapter in Chennai, India)
 * http://www.internetsociety.ca/   (ISOC Chapter for Canada)
 * http://www.isoc-es.org/          (ISOC Chapter for Spain)
 * http://www.coisoc.org/           (ISOC Chapter in Colorado, USA)
