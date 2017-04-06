@@ -1,6 +1,23 @@
 Internet Society WordPress Theme
 ================================
 
+
+-------------------------------
+
+**THIS THEME WILL NO LONGER BE UPDATED.** It is out-of-date and will not be developed
+any further. The Internet Society is in the midst of a redesign process for the 
+main www.internetsociety.org website which will result in a new design by the end
+of 2017. **THIS TEMPLATE WILL NOT BE UPDATED TO THE NEW DESIGN.**
+
+If you are looking for a WordPress template that uses the new Internet Society logo
+and updated branding, you can consider this WordPress template developed by the ISOC-NL 
+Chapter and others:
+
+https://github.com/InternetSocietyChapters/isoc2017-wp
+
+-------------------------------
+
+
 This theme is designed to be used by Internet Society (ISOC) chapters and
 other ISOC-related entities to create WordPress sites using the same general
 design as the 2012 www.internetsociety.org site.
